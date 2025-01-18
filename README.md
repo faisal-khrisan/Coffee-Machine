@@ -1,7 +1,7 @@
 # Coffee Machine Simulator
 
 Welcome to the Coffee Machine Simulator! This project is a Python-based application that simulates a coffee vending machine. It offers functionality to select, prepare, and purchase various coffee types.
-
+To try it  click here : https://www.pythonanywhere.com/gists/6f328b68a9f6cb997074f41536279c0b/CoffeeMchine.py/python/
  # Features
 
 * Menu Options:
